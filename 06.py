@@ -1,1 +1,3 @@
-print("Hello"*4)
+n=int(input(""))
+for x in range(n):
+    print("hello")
